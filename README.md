@@ -32,5 +32,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kakoi16&show_icons=true&locale=en&layout=compact" alt="kakoi16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kakoi16&show_icons=true&locale=en" alt="kakoi16" /></p>
-[![Teks Alternatif](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)]
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Teks Alternatif">
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kakoi16&" alt="kakoi16" /></p>
