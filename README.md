@@ -1,4 +1,4 @@
-[![Teks Alternatif]](https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif)]
+[![Teks Alternatif](https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif)]
 
 <h1 align="center">Hi 👋, I'm Kakoi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
