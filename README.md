@@ -1,4 +1,4 @@
-[![Teks Alternatif](https://github.com/Kakoi16/kakoi/blob/main/Untitled-1.png)](https://github.com/Kakoi16/kakoi/blob/main/Futuristic%20interface%20_%20HUD%20sound%20effects.mp4)
+[![Teks Alternatif](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)]
 
 <h1 align="center">Hi 👋, I'm Kakoi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
