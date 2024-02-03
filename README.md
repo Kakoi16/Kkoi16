@@ -1,3 +1,4 @@
+![logo] (https://github.com/Kakoi16/kakoi/blob/main/Futuristic%20interface%20_%20HUD%20sound%20effects.mp4)
 <h1 align="center">Hi 👋, I'm Kakoi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
